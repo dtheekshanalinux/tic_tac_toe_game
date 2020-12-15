@@ -1,9 +1,7 @@
 # Tic-Tac-Toe Program using 
 # random number in Python
 # Hello dininifsdiu
-# adoo
-# importing all necessary libraries 
-# hellow this will not print the subjects
+# importing all necessary libraries
 import numpy as np
 import random 
 from time import sleep 
